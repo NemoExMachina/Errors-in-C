@@ -62,7 +62,7 @@
     }
             </pre>
             <center>
-            <img src="C:\Users\Admin\Documents\Binay's Assignments\024NEB840__assignment1\HTML\Programs\Errors.png" alt="Output" width="400" height="250">
+            <img src="Errors.png" alt="Output" width="400" height="250">
             </center>
         </div>
     </body>
